@@ -5,6 +5,6 @@ Trabalho de multimidia
 
 # Segunda questão:
 
-Local: Na medicia.
-Problema: Analise de problemas de pele.
-Descrição: Analisar pessoas que possuam anomalias na pele.
+- Local: Na medicia.
+- Problema: Analise de problemas de pele.
+- Descrição: Analisar pessoas que possuam anomalias na pele.
